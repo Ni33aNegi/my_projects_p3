@@ -1,7 +1,4 @@
-# my_projects_p4
-By Nitin negi
-
-EDA using python( pandas, matplotlib, seaborn) libraries were used in this project to clean, fetch and visualise the data into charts, plots for better insights, and also notes are written after every visualisation
+It is an Exploratory Data Analsis(EDA), python libraries like pandas, matplotlib, seaborn were used in this project to clean, fetch and visualize the data into charts, plots for better insights, and also notes are written after every visualization
 
 📊 Exploratory Data Analysis (EDA) on Diwali Sales Data
 
